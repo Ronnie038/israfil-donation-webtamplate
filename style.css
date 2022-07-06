@@ -99,8 +99,8 @@ p {
 }
 
 .plan {
-	max-width: 350px;
-	min-height: 300px;
+	width: 30%;
+	min-height: 350px;
 	text-align: start;
 	padding: 1.5rem;
 	margin: 1rem;
