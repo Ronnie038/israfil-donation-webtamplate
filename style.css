@@ -42,6 +42,7 @@ p {
 	border-radius: 5px;
 	cursor: pointer;
 	color: #fff;
+	text-decoration: none;
 }
 
 /*|  Section header start */
@@ -72,6 +73,7 @@ p {
 	background: #c0c0c04f;
 	padding: 1.5rem;
 	border-radius: 3px;
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
 .section_donation .donation_counter .counter_1 {
@@ -80,13 +82,13 @@ p {
 	font-weight: bold;
 }
 
-.section_donation .donation_p_2 {
+.section_donation .donation_input {
 	padding: 1rem;
 	outline: none;
 	border: none;
 	border-bottom: 1px solid #c0c0c067;
 	text-align: center;
-	width: 100%;
+	width: 80%;
 	color: silver;
 }
 
@@ -134,6 +136,7 @@ p {
 
 .bonus_container {
 	justify-content: space-between;
+	margin-top: 2rem;
 }
 
 .donar_details {
@@ -157,7 +160,8 @@ p {
 	padding: 10px;
 	border-top-left-radius: 20px;
 	border-bottom-right-radius: 20px;
-	min-height: 100px;
+	min-height: 150px;
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 .about_donar p {
 	text-align: center;
@@ -172,6 +176,7 @@ p {
 	background-color: #fff4d6;
 	padding: 3.5rem;
 	border-radius: 5px;
+	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 .input_container input {
